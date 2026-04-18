@@ -8,9 +8,13 @@ An end-to-end Machine Learning pipeline and Natural Language Processing chatbot 
 
 ---
 
-# 🚆Dataset links used for the model:
-[Govt Dataset](https://www.data.gov.in/resource/indian-railways-time-table-trains-available-reservation-01112017)
-[Kaggle Dataset](https://www.kaggle.com/datasets/ravisingh0399/train-delay-dataset)
+## Dataset & Data Fusion
+To achieve high predictive accuracy, Railway Phoenix leverages a fused dataset combining official scheduling with real-world delay patterns:
+
+* **[Government Baseline](https://www.data.gov.in/resource/indian-railways-time-table-trains-available-reservation-01112017):** Official NTES timetable data providing the structural backbone of scheduled routes and station hierarchies.
+* **[Historical Logs](https://www.kaggle.com/datasets/ravisingh0399/train-delay-dataset):** A comprehensive Kaggle dataset capturing historical delay variances across diverse conditions.
+
+**Note:** These datasets were cleaned and merged into a unified dataset, available in the `/models` directory of the application folder.
 
 ## 🛠️ Installation & Usage
 
