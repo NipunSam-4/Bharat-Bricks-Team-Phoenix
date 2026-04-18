@@ -1,0 +1,19 @@
+# Databricks App Configuration
+name: railway-phoenix
+profile: DEFAULT
+
+command:
+  - "python"
+  - "-u"  # Unbuffered output
+  - "app.py"
+
+env:
+  - name: GRADIO_SERVER_NAME
+    value: "0.0.0.0"
+  - name: GRADIO_SERVER_PORT
+    value: "8000"
+  - name: SARVAM_API_KEY
+    value: "sk_yjdh8e2w_yx9R0TsqOGO1Wvj9Win4MDUY"  # Replace with your actual Sarvam API key
+
+resources:
+  - name: requirements.txt
