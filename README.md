@@ -9,10 +9,10 @@ An end-to-end Machine Learning pipeline and Natural Language Processing chatbot 
 ## 🏗️ System Architecture Diagram
 
 ### Part 1: ML Training Pipeline
-![Architecture Diagram Part 1](image_ed93e6.png)
+![Architecture Diagram Part 1](diagram1.png)
 
 ### Part 2: Chatbot Application & Prediction
-![Architecture Diagram Part 2](image_ed9425.png)
+![Architecture Diagram Part 2](diagram2.png)
 
 ---
 
