@@ -4,6 +4,24 @@
 
 An end-to-end Machine Learning pipeline and Natural Language Processing chatbot designed to accurately predict train delays and communicate them naturally to users.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Databricks_App-blue?style=for-the-badge&logo=databricks)](https://railway-phoenix-7474659878332584.aws.databricksapps.com/)
+
+---
+
+## 🛠️ Installation & Usage
+
+```bash
+# 1. Clone the repository
+git clone [https://github.com/yourusername/train-delay-prediction.git](https://github.com/yourusername/train-delay-prediction.git)
+cd train-delay-prediction
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the Gradio Chatbot interface
+python app.py
+```
+
 ---
 
 ## 🏗️ System Architecture Diagram
@@ -61,17 +79,5 @@ The project architecture is designed to be highly extensible. Moving forward, th
 * **Backend & API:** Python, RESTful Architecture, JWT
 * **Frontend:** Gradio / Streamlit
 
----
 
-## 🛠️ Installation & Usage
 
-```bash
-# 1. Clone the repository
-git clone [https://github.com/yourusername/train-delay-prediction.git](https://github.com/yourusername/train-delay-prediction.git)
-cd train-delay-prediction
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the Gradio Chatbot interface
-python app.py
