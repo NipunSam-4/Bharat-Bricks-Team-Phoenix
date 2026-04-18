@@ -8,6 +8,10 @@ An end-to-end Machine Learning pipeline and Natural Language Processing chatbot 
 
 ---
 
+# 🚆Dataset links used for the model:
+[![Govt Dataset]](https://www.data.gov.in/resource/indian-railways-time-table-trains-available-reservation-01112017)
+[![Kaggle Dataset]](https://www.kaggle.com/datasets/ravisingh0399/train-delay-dataset)
+
 ## 🛠️ Installation & Usage
 
 ```bash
