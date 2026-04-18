@@ -12,8 +12,8 @@ An end-to-end Machine Learning pipeline and Natural Language Processing chatbot 
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/yourusername/train-delay-prediction.git](https://github.com/yourusername/train-delay-prediction.git)
-cd train-delay-prediction
+git clone https://github.com/NipunSam-4/Bharat-Bricks-Team-Phoenix
+cd Bharat-Bricks-Team-Phoenix
 
 # 2. Install dependencies
 pip install -r requirements.txt
