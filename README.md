@@ -8,7 +8,7 @@ An end-to-end Machine Learning pipeline and Natural Language Processing chatbot 
 
 ---
 
-## Dataset & Data Fusion
+## 📂 Dataset & Data Fusion
 To achieve high predictive accuracy, Railway Phoenix leverages a fused dataset combining official scheduling with real-world delay patterns:
 
 * **[Government Baseline](https://www.data.gov.in/resource/indian-railways-time-table-trains-available-reservation-01112017):** Official NTES timetable data providing the structural backbone of scheduled routes and station hierarchies.
